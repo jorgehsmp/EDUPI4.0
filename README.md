@@ -30,7 +30,7 @@ La alimentación se convierte internamente de 18–36 VDC a 12 VDC, 5 VDC y 3,3 
 ```text
 EDUPI4.0/
 ├── Hardware/
-│   └── PLC_Raspberry_Microdesys_FA/   # Proyecto, esquemas, PCB y librerías Altium
+│   └── PLC_Raspberry_EDUPI4.0_FA/      # Proyecto, esquemas, PCB y librerías Altium
 ├── BOM/
 │   └── PLC_Raspberry_EDUPI4.0_FA.xlsx # Lista de materiales y precios de referencia
 ├── Archivos 3D/
@@ -46,7 +46,7 @@ EDUPI4.0/
 
 ### Diseño electrónico
 
-El proyecto principal se abre desde [`PLC_Raspberry_Microdesys_FA.PrjPcb`](Hardware/PLC_Raspberry_Microdesys_FA/PLC_Raspberry_Microdesys_FA.PrjPcb) con **Altium Designer**. Incluye:
+El proyecto principal se abre desde [`PLC_Raspberry_Microdesys_FA.PrjPcb`](Hardware/PLC_Raspberry_EDUPI4.0_FA/PLC_Raspberry_Microdesys_FA.PrjPcb) con **Altium Designer**. Incluye:
 
 - esquemáticos jerárquicos y documento de arquitectura;
 - PCB actual `PCB_Raspberry_V5.PcbDoc` y revisiones anteriores;
